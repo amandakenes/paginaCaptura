@@ -44,7 +44,7 @@ main {
 }
 
 .card p span {
-    color: rgb(15, 197, 70);
+    color: #6fd0eb;
     background-color: white;
     border-radius: 6px;
     font-weight: bold;
@@ -67,7 +67,7 @@ main {
 .card button {
     border: none;
     outline: none;
-    background-color: rgb(65, 243, 41);
+    background-color: #378b13;
     border-radius: 8px;
     width: 300px;
     height: 40px;
